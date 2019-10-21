@@ -1,13 +1,13 @@
 //========================================================================================= 
 //Name:				Jose Campos-Munoz
-//Student ID: 		933-630-151
+//Student ID: 		        933-630-151
 //Date:				10/21/2019
 //Class:			CS290: Web Development
-//Description:		Activity 4: Fixing Closure Loop
+//Description:		        Activity 4: Fixing Closure Loop
 //			    	Do the activity in the Scope and Context (Links to an external site.)
-//                  section. You need to fix bug with a loop and closures. Note you need 
-//                  to add a line that actually calls testList(); because there is no 
-//                  button like on the site to execute the code.
+//                              section. You need to fix bug with a loop and closures. Note you need 
+//                              to add a line that actually calls testList(); because there is no 
+//                              button like on the site to execute the code.
 //File:				FixingClosureLoop.js
 //=========================================================================================--> 
 
